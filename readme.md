@@ -67,6 +67,16 @@
 | ------: | -------: | -----: |
 |   3 - 7 |       10 |    45m |
 
+### [The Settlers of Catan](https://en.wikipedia.org/wiki/Catan)
+
+> You play as settlers that try to build and develop the island of Catan, using the resources you get along the way to do so. Score points by building settlements and cities. Catan is a very strategic but easy to learn game that has multiple expansions to change the game and add more players.
+
+![The Settlers of Catan image](https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 4 |       10 | 60-90m |
+
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 <!-- nothing on wikipedia currently -->
 
